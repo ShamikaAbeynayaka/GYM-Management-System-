@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>vehical details</title>
+    </head>
+
+    <body>
+        <form action = "inset vehicaldetails.php" method="post"
+        <fieldset>
+            
+        </fieldset>
+    </body>
+</html>
